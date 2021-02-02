@@ -7,3 +7,4 @@
 # npm install react-native-gesture-handler   
 # npm install react-native-screens 
 # https://oblador.github.io/react-native-vector-icons/  install npm install react-native-vector -icons.
+
